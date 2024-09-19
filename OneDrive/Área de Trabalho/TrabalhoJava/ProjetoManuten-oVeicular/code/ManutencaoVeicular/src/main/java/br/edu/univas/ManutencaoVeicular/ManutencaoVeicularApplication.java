@@ -13,6 +13,6 @@ public class ManutencaoVeicularApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Olá Mundo");
+		System.out.println("Hello World");
 	}
 }
